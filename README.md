@@ -14,7 +14,8 @@ Training Resources and Links
 - Using PgAdmin, create a database and restore the database by pointing to the .tar file (dvdrental.tar)
 
 ## Practise online
-- https://www.w3resource.com/sql-exercises/
+
+[Practise Here](https://www.w3resource.com/sql-exercises/)
 
 ## Instructions on getting updates for on this page
 - Watch and Follow this repository (Click on the Watch and Star button at the top right corner of this page). This will enable you get email notification once there is a new update.
