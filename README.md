@@ -8,6 +8,9 @@ Training Resources and Links
 - Ubuntu - https://www.postgresql.org/download/linux/ubuntu/
 - Others - https://www.postgresql.org/download/
 
+## Power BI Installation (Visualization)
+- Windows only - https://www.microsoft.com/en-us/download/details.aspx?id=45331
+
 ## Sample Datasets 
 - Film Business Data [Click to download](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 - Extract to .tar file 
